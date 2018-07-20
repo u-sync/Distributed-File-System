@@ -1,0 +1,5 @@
+Compile files 
+1. Run nameserver 
+2. Run storage server 
+3. run any one of Get(to get File from DFs) put( to put file in dfs) 
+
